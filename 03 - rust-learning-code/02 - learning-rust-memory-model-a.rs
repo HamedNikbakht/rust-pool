@@ -19,3 +19,4 @@ fn main() {
     page_count(&book);
     book_rating(&book);
 }
+

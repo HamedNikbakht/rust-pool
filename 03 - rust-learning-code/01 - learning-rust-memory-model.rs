@@ -15,3 +15,4 @@ fn main() {
     light_info(dull);
     light_info(dull);
 }
+

@@ -19,3 +19,4 @@ fn main() {
     show_quantity(&my_item);
     show_id(&my_item);
 }
+
